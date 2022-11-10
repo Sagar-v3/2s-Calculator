@@ -1,0 +1,17 @@
+.Calculator {
+    text-align: center;
+    margin-top: 25px;
+}
+
+.display {  
+    font-size: 3rem;
+    font-weight: 500;
+    height: 70px;
+
+}
+
+.buttons > button {
+    margin: 25px;
+    height: 30px;
+    width: auto;
+}
